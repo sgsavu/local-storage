@@ -1,0 +1,28 @@
+{
+  "name": "@sgsavu/local-storage",
+  "description": "Simple wrapper for the web local storage.",
+  "version": "0.1.0",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/sgsavu",
+  "repository": {
+    "url": "https://github.com/sgsavu/local-storage"
+  },
+  "scripts": {
+    "build": "tsup",
+    "lint": "tsc"
+  },
+  "keywords": [
+    "local-storage",
+    "local",
+    "storage",
+    "db"
+  ],
+  "author": "Jibreel Savu",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "tsup": "^8.2.4",
+    "typescript": "^5.5.4"
+  }
+}
