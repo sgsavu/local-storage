@@ -1,7 +1,7 @@
 {
   "name": "@sgsavu/local-storage",
   "description": "Simple wrapper for the web local storage.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
